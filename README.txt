@@ -4,3 +4,5 @@
 	git commit -m "message"
 3、将文件远程推送
 	git push origin master
+4、撤销操作
+	git commit --amend
